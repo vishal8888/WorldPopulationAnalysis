@@ -1,0 +1,16 @@
+Title: Steeper and Steeper!
+Date: 
+Introduction:
+The project endeavours to analyse a dataset of population over the years for the world and India. The outcome of this analysis is presented in the form of line graphs and histogram respectively.
+
+Objectives, Scope and Application:
+●	To map a dataset to a graphical format so as to make it comprehensible and easier to observe trends.
+●	To compare datasets more effectively in this format.
+
+Design of Application:
+●	Using the csv module to access dataset file contents in the code and storing them in lists.
+●	Using the mplcursors module to enable a dynamic interface whilst hovering over graphs.
+●	Using matplotlib module to represent the outcome of the analysis graphically.
+
+Expected Conclusions:
+●	Realization that graphical representation of a dataset is more impactful than just the numbers themselves.
